@@ -8,7 +8,7 @@ void greetings()
   printf("\t\t\t   *            WELCOME TO DELHI METRO                   *\n");
   printf("\t\t\t    *      --------------------------------------       *\n");
   printf("\t\t\t     *                                                 *\n");
-  printf("\t\t\t     *                            Created By - Vijay   *\n");
+  printf("\t\t\t     *                            Created By - Mahesh Singh   *\n");
   printf("\t\t\t     * * * * * * * * * * * * * * * * * * * * * * * * * *\n");
   
 
